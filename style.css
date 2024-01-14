@@ -1,0 +1,19 @@
+h1 { color:darkgreen; 
+   font-family:cursive;
+   border:10px solid darkseagreen ;
+   padding: 30px;
+}
+
+p {
+    color:steelblue;
+}
+
+body {
+    background-color: rgb(11, 184, 161);
+}
+
+img{
+    width: 50%;
+    height: 50%;
+    margin: left 95px; ;
+}
